@@ -28,7 +28,7 @@ export default function Mission() {
             <p className="mission-statement" style={{ marginTop: 18 }}>
   <strong>We believe games are more than entertainment,</strong>{" "}
   <span className="ms-rest">{" "}
-    <span className="grad-text portal">Its Humanity&rsquo;s PortaL</span>{" "}
+    <span className="grad-text portal">Its Humanity&rsquo;s Portal</span>{" "}
     to new realities, emotional journeys, and transformative
     experiences that stay with players long after they put down the
     controller.
